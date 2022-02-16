@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>azure on Terminal</title>
+    <link>https://bencurran.dev/tags/azure/</link>
+    <description>Recent content in azure on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Feb 2022 13:29:20 +0800</lastBuildDate><atom:link href="https://bencurran.dev/tags/azure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://bencurran.dev/posts/hello-world/</link>
+      <pubDate>Wed, 16 Feb 2022 13:29:20 +0800</pubDate>
+      
+      <guid>https://bencurran.dev/posts/hello-world/</guid>
+      <description>Hello, I am Ben.</description>
+      <content>&lt;p&gt;Hello, I am Ben.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
